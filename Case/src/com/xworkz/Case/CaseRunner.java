@@ -4,7 +4,8 @@ public class CaseRunner {
 
 	public static void main(String[] args) {
 		System.out.println("Running main method in Case Runner");
-		Court court1 = new Court();
+		  
+		  Court court1 = new Court();
 	      court1.justice();
 	      
 	      System.out.println("-----------------------------------");
